@@ -3,6 +3,8 @@
 ## Overview
 This is a minimalist extension for GNOME Shell. It displays logo.svg in your GNOME Shell top bar instead of Activities logo.
 
+![Screenshot](./screenshots/screenshot.png)
+
 ## Compatibility
 
 Known supported versions of GNOME:
