@@ -1,0 +1,14 @@
+{
+  "description": "Display logo the GNOME top bar.",
+  "name": "Linuxtricks Logo Indicator",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "url": "https://github.com/aaaaadrien/linuxtricks-logo-indicator",
+  "uuid": "linuxtricks-logo-indicator@aaaaadrien.github.com",
+  "version": 2
+}
